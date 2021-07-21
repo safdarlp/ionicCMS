@@ -1,2 +1,2 @@
-# ionicUsers
-ionic users management application
+# ionicCMS
+ionic content management application
